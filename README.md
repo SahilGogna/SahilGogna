@@ -5,20 +5,17 @@ I am a Montreal based developer orignally from India. Always curious to learn ne
 
 ## Love working with
 
-| JAVA | Spring Boot| Scala | Pyhton | Hadoop | Spark Straming | Kafka| AWS
- | :---: | :---: | :---: | :---: |  :---: | :---: | :---: | :---: | 
+| JAVA |  Scala | Pyhton | Spring Boot| Hadoop | Spark Straming | Kafka| AWS
+| :---: | :---: | :---: | :---: |  :---: | :---: | :---: | :---: | 
 
- 
-
-<br>
 <br>
 
 - 🔭 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Languages: English, French
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Co-founder of [UnsaidTalks]
 
 ### Connect with me here:  
 
@@ -29,3 +26,5 @@ I am a Montreal based developer orignally from India. Always curious to learn ne
 <a href="https://instagram.com/youraverageguide">
     <img align="left" alt="YourAverageGuide | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a> 
+
+[UnsaidTalks] : https://www.unsaidtalks.com/
