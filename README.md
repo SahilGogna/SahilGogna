@@ -15,7 +15,7 @@ I am a Montreal based developer orignally from India. Always curious to learn ne
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Languages: English, French
-- ⚡ Fun fact: Co-founder of [UnsaidTalks]
+- ⚡ Fun fact: Co-founder of [UnsaidTalks][UnsaidTalks] **|**
 
 ### Connect with me here:  
 
