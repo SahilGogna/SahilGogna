@@ -9,13 +9,10 @@ I am a Montreal based developer orignally from India. Always curious to learn ne
 | :---: | :---: | :---: | :---: |  :---: | :---: | :---: | :---: | 
 
 <br>
-
-- 🔭 
-- 🌱 I’m currently learning 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning French. 
+- 💬 Ask me about anything related to pursuing engineering in India, starting with programming or studying in Canada. 
 - 😄 Languages: English, French
-- ⚡ Fun fact: Co-founder of [UnsaidTalks][UnsaidTalks] **|**
+- ⚡ Fun fact: Co-founder of [UnsaidTalks][UnsaidTalks]
 
 ### Connect with me here:  
 
