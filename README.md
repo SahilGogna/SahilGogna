@@ -9,6 +9,8 @@ I am a Montreal based developer orignally from India. Always curious to learn ne
 | :---: | :---: | :---: | :---: |  :---: | :---: | :---: | :---: | 
 
 <br>
+
+
 - 🌱 I’m currently learning French. 
 - 💬 Ask me about anything related to pursuing engineering in India, starting with programming or studying in Canada. 
 - 😄 Languages: English, French
