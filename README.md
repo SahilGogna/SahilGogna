@@ -11,7 +11,7 @@ I am a Montreal based developer orignally from India. Always curious to learn ne
 <br>
 
 
-- 🌱 I’m currently learning French. 
+- 🌱 French level 4. 
 - 💬 Ask me about anything related to pursuing engineering in India, starting with programming or studying in Canada. 
 - 😄 Languages: English, French
 - ⚡ Fun fact: Co-founder of [UnsaidTalks][UnsaidTalks]
