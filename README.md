@@ -21,8 +21,11 @@ I am a Montreal based developer orignally from India. Always curious to learn ne
 <a href="https://www.linkedin.com/in/gognasahil/">
     <img align="left" alt="Sahil Gogna | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
-<a href="https://instagram.com/youraverageguide">
-    <img align="left" alt="YourAverageGuide | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+<a href="https://www.instagram.com/sahilgogna_/">
+    <img align="left" alt="Sahil Gogna | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+</a> 
+<a href="https://www.youtube.com/@GognaSahil">
+    <img align="left" alt="Sahil Gogna | Youtube" width="24px" src="java-features/youtube-svgrepo-com.svg" />
 </a> 
 
 [YouTube]: https://www.youtube.com/channel/UCMsP0-XidWAGvnrZmU_5CNg
