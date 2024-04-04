@@ -1,7 +1,7 @@
 ### Hi there नमस्ते 🙏 Bonjour <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
 
 ## About Me:
-I am a Montreal based developer orignally from India. Always curious to learn new technologies. A bit enthusiast for big data development and JAVA💜. Love to code Data Strucuture and Algorithm problems in my free time. I am working on buidling an online community where the professionals from different sectors of Canadian IT industry share their experience to guide Students. Currently recording a podcast series - "The tech Talks" which is available on 🎥 [YouTube][YouTube] 🎾 [Spotify][Spotify]. 
+I am a Montreal based developer orignally from India. Always curious to learn new technologies. A bit enthusiast for big data development and JAVA💜. Love to code Data Strucuture and Algorithm problems in my free time. I am working on buidling an online community where the professionals from different sectors of Canadian IT industry share their experience to guide Students.
 
 ## Love working with
 
