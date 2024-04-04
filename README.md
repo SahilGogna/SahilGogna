@@ -25,7 +25,7 @@ I am a Montreal based developer orignally from India. Always curious to learn ne
     <img align="left" alt="Sahil Gogna | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a> 
 <a href="https://www.youtube.com/@GognaSahil">
-    <img align="left" alt="Sahil Gogna | Youtube" width="24px" src="java-features/youtube-svgrepo-com.svg" />
+    <img align="left" alt="Sahil Gogna | Youtube" width="24px" src="https://github.com/SahilGogna/Ds-Algo/blob/master/java-features/youtube-svgrepo-com.svg" />
 </a> 
 
 [YouTube]: https://www.youtube.com/channel/UCMsP0-XidWAGvnrZmU_5CNg
