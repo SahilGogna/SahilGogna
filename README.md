@@ -25,6 +25,5 @@ I am a Montreal based developer orignally from India. Always curious to learn ne
     <img align="left" alt="YourAverageGuide | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a> 
 
-[UnsaidTalks]: https://www.unsaidtalks.com/
 [YouTube]: https://www.youtube.com/channel/UCMsP0-XidWAGvnrZmU_5CNg
 [Spotify]: https://open.spotify.com/show/07Xkj4loPFZhwUF4zY7WuA
