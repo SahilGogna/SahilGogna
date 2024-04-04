@@ -12,8 +12,7 @@ I am a Montreal based developer orignally from India. Always curious to learn ne
 
 
 - 😄  French level 4. 
-- 💬 Ask me about anything related to pursuing engineering in India, starting with programming or studying in Canada. 
-- ⚡ Fun fact: Co-founder of [UnsaidTalks][UnsaidTalks]
+- 💬 Ask me about anything related to pursuing engineering in India, starting with programming or studying in Canada.
 
 ### Connect with me here:  
 
@@ -27,6 +26,6 @@ I am a Montreal based developer orignally from India. Always curious to learn ne
 <a href="https://www.youtube.com/@GognaSahil">
     <img align="left" alt="Sahil Gogna | Youtube" width="24px" src="https://github.com/SahilGogna/Ds-Algo/blob/master/java-features/youtube-svgrepo-com.svg" />
 </a> 
-
-[YouTube]: https://www.youtube.com/channel/UCMsP0-XidWAGvnrZmU_5CNg
-[Spotify]: https://open.spotify.com/show/07Xkj4loPFZhwUF4zY7WuA
+<a href="https://www.youtube.com/@youraverageguide">
+    <img align="left" alt="YourAverageGuide | Youtube" width="24px" src="https://github.com/SahilGogna/Ds-Algo/blob/master/java-features/youtube-svgrepo-com.svg" />
+</a>
