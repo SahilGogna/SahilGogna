@@ -3,10 +3,15 @@
 ## About Me:
 Hi there! I'm Sahil Gogna, a Data Engineer, Content Creator, and Mentor based in Canada 🇨🇦. I’m passionate about combining technology and creativity to make an impact in the world of data and beyond.
 
-What I Do 🚀
-Data: Designing and building data pipelines, optimizing workflows, and leveraging tools like Python, SQL, Scala, and Big Data technologies.
-Mentorship: Guiding students and aspiring data professionals to kickstart and grow their careers in tech.
-Content Creation: Sharing insights on LinkedIn, YouTube, and other platforms about the tech industry, resume building, job search strategies, and life in Canada.
+## 🚀 What I Do
+- 💻 **Data:**  
+  - Design and implement data pipelines and workflows.  
+  - Work with technologies like **Python**, **SQL**, **Scala**, and **Big Data** tools.  
+- 🎓 **Mentorship:**  
+  - Guide students and aspiring tech professionals to achieve their career goals.  
+  - Focus on problem-solving, understanding tools, and optimizing workflows.  
+- 🎥 **Content Creation:**  
+  - Share insights about **tech careers**, **job search strategies**, and **life in Canada** on **LinkedIn** and **YouTube**.  
 
 ## Love working with
 
