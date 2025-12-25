@@ -1,35 +1,17 @@
-### Hi there नमस्ते 🙏 Bonjour <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
-
-## About Me:
-Hi there! I'm Sahil Gogna, a Data Engineer, Content Creator, and Mentor based in Canada 🇨🇦. I’m passionate about combining technology and creativity to make an impact in the world of data and beyond.
-
-## 🚀 What I Do
-- 💻 **Data:**  
-  - Design and implement data pipelines and workflows.  
-  - Work with technologies like **Python**, **SQL**, **Scala**, and **Big Data** tools.  
-- 🎓 **Mentorship:**  
-  - Guide students and aspiring tech professionals to achieve their career goals.  
-  - Focus on problem-solving, understanding tools, and optimizing workflows.  
-- 🎥 **Content Creation:**  
-  - Share insights about **tech careers**, **job search strategies**, and **life in Canada** on **LinkedIn** and **YouTube**.  
-
-## Love working with
-
-| JAVA |  Scala | Pyhton | Spring Boot| Hadoop | Spark Straming | Kafka| AWS
-| :---: | :---: | :---: | :---: |  :---: | :---: | :---: | :---: | 
-
-### Connect with me here:  
+# 💫 About Me:
+I’m a Senior Data Engineer turned entrepreneur, building and growing a tech community in Canada focused on learning, collaboration, and real-world impact.<br><br>With a strong background in data engineering and software engineering, I’ve spent years designing scalable data systems, working with modern data stacks, and solving complex problems that sit at the intersection of data, product, and business.<br><br>Whether it’s through workshops, community sessions, or content, my goal is simple:<br>help people grow, build confidence, and do meaningful work in tech.
 
 
-<a href="https://www.linkedin.com/in/gognasahil/">
-    <img align="left" alt="Sahil Gogna | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/sahilgogna_/">
-    <img align="left" alt="Sahil Gogna | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-</a> 
-<a href="https://www.youtube.com/@GognaSahil">
-    <img align="left" alt="Sahil Gogna | Youtube" width="24px" src="https://github.com/SahilGogna/Ds-Algo/blob/master/java-features/youtube-svgrepo-com.svg" />
-</a> 
-<a href="https://www.youtube.com/@youraverageguide">
-    <img align="left" alt="YourAverageGuide | Youtube" width="24px" src="https://github.com/SahilGogna/Ds-Algo/blob/master/java-features/youtube-svgrepo-com.svg" />
-</a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sahilgogna_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gognasahil) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GognaSahil) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youraverageguide) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SahilGogna&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SahilGogna&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilGogna&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SahilGogna&icon=0&color=0)](https://visitcount.itsvg.in)
+
